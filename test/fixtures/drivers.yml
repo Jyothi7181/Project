@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  driver_name: MyString
+  license_no: MyString
+  driver_age: 1
+  driver_experience: 1
+  driver_salary: 1.5
+
+two:
+  driver_name: MyString
+  license_no: MyString
+  driver_age: 1
+  driver_experience: 1
+  driver_salary: 1.5
